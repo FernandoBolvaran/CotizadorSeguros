@@ -1,3 +1,7 @@
+Proyecto de cotizadorde seguros en ReactJS pero puede ser de cualquier objeto para ser utilizado en un carro de compras o en un proceso de transporte, delivery,etc. Dependiendo el objeto tendrá un valor diferente según tamaño, peso o variadas características.
+
+Los detalles de su deploy estan en las siguientes especificaciones:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
